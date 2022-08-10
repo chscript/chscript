@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @CHScript
-- 👀 I’m interested in front-end development
 - 📫 WeChat: Yang_GZ1
 
 <!---
