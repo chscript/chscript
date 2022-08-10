@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHScript
-- 👀 I’m interested in web development
-- 📫 WeChat: Yang_GZ1
+- 👀 I’m interested in front-end development
+- 📮 WeChat: Yang_GZ1
 
 <!---
 CHScript/CHScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
