@@ -1,4 +1,4 @@
-WeChat: Yang_GZ1
+Email: chscript@icloud.com
 
 <!---
 CHScript/CHScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
